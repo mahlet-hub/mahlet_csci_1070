@@ -6,5 +6,5 @@ I will be using the hulu movie data set for my final project .
 https://www.kaggle.com/datasets/octopusteam/full-hulu-dataset?resource=download
 Null hypothesis : The release date , genre  and available country of an applicant does not significantly affect the probability of the movie having a good rating
 Alternative hypothesis : The release date , genre  and available country will significantly affect the probability of the movie having a good rating 
-Models I plan on using for this data set are logistic regression , linear regression and random forest classifier 
+Models I plan on using for this data set are multiple linear regression to view the correlation between each attribute and the rating . The second model I will use is random forest regressor to capture non-linear relationships or interactions between features.
 I plan on working this after class on mondays , wednesdays , and fridays.
